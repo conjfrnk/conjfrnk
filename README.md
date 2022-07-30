@@ -1,9 +1,9 @@
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Connor-Frank&show_icons=true&include_all_commits=true&count_private=true&title_color=05bc79&text_color=0fa8cd&icon_color=2472c8&bg_color=262a33">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=conjfrnk&show_icons=true&include_all_commits=true&count_private=true&title_color=05bc79&text_color=0fa8cd&icon_color=2472c8&bg_color=262a33">
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-Frank&show_icons=true&title_color=05bc79&text_color=0fa8cd&icon_color=2472c8&bg_color=262a33">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conjfrnk&show_icons=true&title_color=05bc79&text_color=0fa8cd&icon_color=2472c8&bg_color=262a33">
 
 <!--
-**Connor-Frank/Connor-Frank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**conjfrnk/conjfrnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
