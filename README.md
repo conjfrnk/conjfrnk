@@ -4,6 +4,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=conjfrnk&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=conjfrnk)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=conjfrnk&count_private=true&layout=compact)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=conjfrnk&count_private=true&layout=compact)<br/>
+-->
+![](https://projecteuler.net/profile/conjfrnk.png)<br/>
 
 <!-- https://gprm.itsvg.in -->
