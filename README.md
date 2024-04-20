@@ -4,8 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=conjfrnk&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=conjfrnk)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=conjfrnk&count_private=true&layout=compact)<br/>
--->
-![](https://projecteuler.net/profile/conjfrnk.png)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=conjfrnk&count_private=true&layout=compact)<br/>
+[![stats](https://projecteuler.net/profile/conjfrnk.png)](https://conjfrnk.com/euler/stats.html "Euler Stats")
 
 <!-- https://gprm.itsvg.in -->
